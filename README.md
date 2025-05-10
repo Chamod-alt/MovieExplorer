@@ -1,6 +1,8 @@
 
 # 🎬 MovieExplorer
 
+you can see it using (https://movie-explorer-xb6x.vercel.app/)
+
 A sleek React app that lets users explore trending movies, search by title, and manage a list of favorites using TMDb API.
 
 ## 🚀 Live App
